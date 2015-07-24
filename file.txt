@@ -1,3 +1,4 @@
 This is foo
 My 1st commit
 mking it interestingI want to eat
+Trying to create a git conflict
